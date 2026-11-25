@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+transcripts.tar.gz
+u-suroto-worst-superpower-461dcdbe-kit/
+BUILD-REPORT.md
